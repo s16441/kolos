@@ -1,0 +1,12 @@
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\bin\Debug\netcoreapp3.1\s16441Kolos.exe
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.csprojAssemblyReference.cache
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.AssemblyInfoInputs.cache
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.AssemblyInfo.cs
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.RazorTargetAssemblyInfo.cache
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\staticwebassets\s16441Kolos.StaticWebAssets.Manifest.cache
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\staticwebassets\s16441Kolos.StaticWebAssets.xml
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.csproj.CoreCompileInputs.cache
+C:\Users\Monika Wikiera\source\repos\s16441Kolos\s16441Kolos\obj\Debug\netcoreapp3.1\s16441Kolos.MvcApplicationPartsAssemblyInfo.cache
